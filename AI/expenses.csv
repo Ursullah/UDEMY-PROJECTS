@@ -1,0 +1,61 @@
+Date      , Amount, Description                           , Category
+2025-07-01,   1200, Uber ride to airport                  , Travel
+2025-07-01,    800, Grocery shopping                      , Groceries
+2025-07-02,    150, Netflix subscription                  , Entertainment
+2025-07-02,    300, Electricity bill                      , Utilities
+2025-07-03,    450, Lunch at cafe                         , Food
+2025-07-03,    200, Taxi to work                          , Travel
+2025-07-03,    250, Office supplies                       , OfficeSupplies
+2025-07-03,    400, Register for Nairobi marathon         , Sports
+2025-07-03,    600, Monthly gym membership                , Sports
+2025-07-03,    150, Book purchase                         , Books
+2025-07-03,    100, Online course fee                     , Education
+2025-07-03,    350, Concert tickets                       , Entertainment
+2025-07-03,    500, Restaurant dinner                     , Food
+2025-07-03,    200, Pet food                              , PetCare
+2025-07-03,    500, Go for picnic with friends            , Social
+2025-07-03,    300, Visit to art gallery                  , Culture
+2025-07-03,    400, New shoes purchase                    , Clothing
+2025-07-03,    250, Monthly phone bill                    , Utilities
+2025-07-03,    600, New laptop purchase                   , Electronics
+2025-07-03,    700, Weekend getaway trip                  , Travel
+2025-07-04,    100, Charity donation                      , Charity
+2025-07-04,    200, New book purchase                     , Books
+2025-07-04,    300, Online shopping                       , Shopping
+2025-07-04,    400, Home cleaning service                 , HomeServices
+2025-07-04,    500, New furniture purchase                , Furniture
+2025-07-04,    600, Monthly internet bill                 , Utilities
+2025-07-04,    700, New smartphone purchase               , Electronics
+2025-07-04,    800, Weekend trip to the coast             , Travel
+2025-07-04,    900, Concert tickets                       , Entertainment
+2025-07-04,   1000, New camera purchase                   , Electronics
+2025-07-04,   1100, Weekend spa retreat                   , Health
+2025-07-04,   1200, New bicycle purchase                  , Sports
+2025-07-04,   1300, Monthly subscription box              , Entertainment
+2025-07-04,   1400, New gaming console purchase           , Electronics
+2025-07-04,   1500, Home renovation project               , HomeImprovement
+2025-07-04,   1600, New kitchen appliances purchase       , HomeAppliances
+2025-07-04,   1700, Monthly car insurance payment         , Insurance
+2025-07-04,   1800, New watch purchase                    , Clothing
+2025-07-04,   1900, Monthly health insurance payment      , Insurance
+2025-07-04,   2000, New tablet purchase                   , Electronics
+2025-07-04,   2100, Monthly gym membership renewal        , Sports
+2025-07-04,   2200, Monthly streaming service subscription, Entertainment
+2025-07-04,   2300, Monthly credit card payment           , Finance
+2025-07-04,   2400, Monthly mortgage payment              , Finance
+2025-07-04,   2500, Monthly car payment                   , Finance
+2025-07-04,   2600, Monthly student loan payment          , Finance
+2025-07-04,   2700, Monthly personal loan payment         , Finance
+2025-07-04,   2800, Monthly utility bill payment          , Utilities
+2025-07-04,   2900, Monthly grocery bill payment          , Groceries
+2025-07-04,   3000, Monthly dining out expenses           , Food
+2025-07-04,   3100, Monthly travel expenses               , Travel
+2025-07-04,   3200, Monthly entertainment expenses        , Entertainment
+2025-07-04,   3300, Monthly clothing expenses             , Clothing
+2025-07-04,   3400, Monthly electronics expenses          , Electronics
+2025-07-04,   3500, Monthly home improvement expenses     , HomeImprovement
+2025-07-04,   3600, Monthly health expenses               , Health
+2025-07-04,   3700, Monthly pet care expenses             , PetCare
+2025-07-04,   3800, Monthly social expenses               , Social
+2025-07-04,   3900, Culture expenses                      , Culture
+
