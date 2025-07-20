@@ -20,3 +20,13 @@ console.log('Server running at http://127.0.0.1:3000/');
 
 // Buffer is a temporary storage area for binary data (raw data) in Node.js - Allows Node.js to handle binary data directly - which JS by default is not good at.
 // Used when dealing with file systems (fs), streams, and TCP/HTTP networking (transmitting raw data)
+
+//Callback function
+const fs = require('fs');
+fs.readFile('example.text', 'utf8', function(err, data) {
+  if (err) {
+    console.error('Error reading file:', err);
+    return;
+  }
+  console.log('File content:', data);
+});
