@@ -1,16 +1,22 @@
-httpp = require ('node:http');
-listener = function (request, response) {
-    // Send the HTTP header
- // HTTP Status: 200 : OK
- // Content Type: text/html
- response.writeHead(200, {'Content-Type': 'text/html'});
+const http = require('node:http'); // require directive to load Node.js core module
 
- // Send the response body as "Hello World"
- response.end('<h2 style="text-align: center;">Hello World</h2>');
+// Listener function to handle incoming HTTP requests
+const listener = function (request, response) {
+  // Set HTTP response header with status and content type
+  response.writeHead(200, { 'Content-Type': 'text/html' });
+
+  // Send the response body
+  response.end('<h2 style="text-align: center;">Hello World</h2>');
 };
 
-server = http.createServer(listener);
+// Create HTTP server
+const server = http.createServer(listener);
+
+// Server will listen on port 3000
 server.listen(3000);
 
-// Console will print the message
+// Log that server is running
 console.log('Server running at http://127.0.0.1:3000/');
+
+// Buffer is a temporary storage area for binary data (raw data) in Node.js - Allows Node.js to handle binary data directly - which JS by default is not good at.
+// Used when dealing with file systems (fs), streams, and TCP/HTTP networking (transmitting raw data)
