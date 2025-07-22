@@ -57,3 +57,11 @@
         console.log("The number is " + j);
         j++;
      }
+
+//Upload files.
+//Involves sending the files from the client to a server over HTTP. 
+//The server then processes the uploaded files, stores them in a specified location
+// or perform some action based on the uploaded content.
+//Two main tools will be used for this 
+// Express - minimal web framework for handling HTTP requests and responses.
+// Multer - is a middleware that makes it easy to handle file uploads in Express
